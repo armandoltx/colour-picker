@@ -22,4 +22,4 @@ Using plain Vanilla JS and jQuery I have created a colour picker. Any time you m
 - JavaScript
 - jQuery.
 
-## Enjoy the [colour- Picker]()
+## Enjoy the [colour- Picker](https://armandoltx.github.io/colour-picker/)
