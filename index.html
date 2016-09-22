@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>color picker</title>
+    <link rel="stylesheet" href="css/style.css" media="screen" title="no title">
+    <script src="js/jquery.js" charset="utf-8"></script>
+    <script src="js/main.js" charset="utf-8"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="text">
+        <header>
+          <h1>Colour-Picker</h1>
+        </header>
+        <div class="paragraphs">
+          <p>Move the mouse over the square.</p>
+          <p>To change the value of blue, use the slider</p>
+          <p class="rgb">background-color = rgb (<span  id="r"></span>, <span id="g"></span>, <span  id="b"></span> );</p>
+        </div>
+      </div>
+      <input type="range" max="255" id="b-line" value="0" />
+    </div>
+  </body>
+</html>
